@@ -1,0 +1,29 @@
+Oracion 1. Oracion 2. Oracion 3.
+Hola, este es el texto de prueba prueba  que se usará para llevar a cabo el trabajo práctico de Entorno de Programación. Oracion 5.
+Los integrantes de este grupo son Gagliardi Valentino y Gauto Lucas.
+Ya no sé qué escribir.
+Caramelo de chocolate, empapame así.
+Como un pionono de vitrina, envuelveme así.
+así.
+ 
+así.
+ 
+Tu ru ru ru.
+Mi bebito fiu fiu.
+Hola,
+Hola,
+Hola,
+pionono
+pionono
+pionono
+pionono
+vitrina
+
+palindromos:
+aoa
+aaoaa
+ewe
+owo
+uwu
+
+otorroto
